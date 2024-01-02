@@ -1,0 +1,4 @@
+1 2 20 streetA
+1 3 40 streetB
+2 3 15 streetC
+4 5 12 streetD
